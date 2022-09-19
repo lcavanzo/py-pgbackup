@@ -1,4 +1,4 @@
-.PHONY: isntall test
+.PHONY: install test
 
 default: test
 

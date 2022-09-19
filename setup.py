@@ -11,6 +11,6 @@ setup(
     author='Luis',
     author_email='cavanzo1996@gmail.com',
     install_requires=[],
-    packages=find_packages('srs'),
+    packages=find_packages('src'),
     package_dir={'': 'src'},
 )
